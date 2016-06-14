@@ -76,7 +76,7 @@ service {'nginx':
 
 * You will receive up to ```0.25``` credit for following the [Puppet style
 guide](https://docs.puppet.com/guides/style_guide.html) - use
-[puppet-link](http://puppet-lint.com/) to confirm your code.
+[puppet-lint](http://puppet-lint.com/) to confirm your code.
 Also, you need to create spec tests for your module.
 
 
