@@ -61,4 +61,4 @@ You can then access the 2 API end point
 * ```/sumlast10``` - returns the sum of last 10 votes
 * ```/submit_vote``` - submit a vote via POST request (with a field name ```value``` containing the value of your vote)
 
-![Sample result](/node_app/Screen Shot 2016-06-14 at 9.53.04 AM?raw=true)
+![Sample result](/node_app/Screen Shot 2016-06-14 at 9.53.04 AM.png?raw=true)
